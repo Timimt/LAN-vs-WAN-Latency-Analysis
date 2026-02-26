@@ -44,6 +44,7 @@ A research project comparing LAN and WAN latency performance through ping experi
 \## 乙太網路（Ethernet）：利用實體纜線進行資料傳輸，穩定且速度快。 
 
 \## Wi-Fi：透過無線電波連接設備，使用方便，適合行動裝置或無線需求高的環境。 
+<img width="3084" height="2250" alt="what_is_LAN_diagram" src="https://github.com/user-attachments/assets/13b847f7-9543-4f5e-88e9-62afe354658e" />
 
 LAN 的使用範圍通常有限，因此能提供相對高速的資料傳輸，讓使用者能無縫存取
 共享資源。
